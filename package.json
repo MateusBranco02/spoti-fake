@@ -1,0 +1,15 @@
+{
+  "name": "spoti-fake",
+  "version": "1.0.0",
+  "description": "Trabalho Teste de Sistemas com Jest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
