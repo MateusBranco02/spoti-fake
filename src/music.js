@@ -26,5 +26,4 @@ class Music {
     }
 }
 
-const musica = new Music('Iris', 'Jada Facer', 'spotfy', '02:45', 'romantico');
-console.log(musica.exibirDetalhes());
+module.exports = Music;
